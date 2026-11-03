@@ -30,7 +30,7 @@ android {
         namespace 'io.scer.pdf_renderer'
     }
 
-    compileSdkVersion 31
+    compileSdkVersion 36
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
